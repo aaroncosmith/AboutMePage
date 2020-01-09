@@ -38,7 +38,7 @@ h2 {
 }
 html{
     background-color: white;
-    background-image: url(/images/beachcliff.JPG)
+    background-image: url(../images/beachcliff.JPG);
     background-repeat: no-repeat;
     background-position: middle;
     background-size: cover;
